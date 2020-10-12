@@ -1,8 +1,22 @@
-package com.gyy.study.week2;/**
-  *@ClassName Student
-  *@Description TODO
-  *@Author GYY
-  *@Date 2020/10/12
-**/
+package com.gyy.study.week2;
+
+import lombok.AllArgsConstructor;
+import lombok.Data;
+import lombok.NoArgsConstructor;
+
+/**
+ * @ClassName Student
+ * @Description TODO
+ * @Author GYY
+ * @Date 2020/10/12
+ **/
+@Data
+@AllArgsConstructor
+@NoArgsConstructor
 public class Student {
+    private String id;
+    private String studentName;
+    private String gender;
+    private Phone phone;
+    private Book[] book;
 }
