@@ -1,0 +1,118 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="b08d2468-aeda-41ce-abc2-15a12b7fd615" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/../Java-basic/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Java-basic/.idea/compiler.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Java-basic/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Java-basic/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Java-basic/.idea/uiDesigner.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Java-basic/.idea/uiDesigner.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Java-basic/Java-basic.iml" beforeDir="false" afterPath="$PROJECT_DIR$/../Java-basic/Java-basic.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Java-basic/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Java-basic/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Java-basic/src/main/java/com/gyy/study/README" beforeDir="false" afterPath="$PROJECT_DIR$/../Java-basic/src/main/java/com/gyy/study/README" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Java-basic/src/main/java/com/gyy/study/week6/MapTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Java-basic/src/main/java/com/gyy/study/week6/MapTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Java-basic/src/main/java/com/gyy/study/week7/StudentMapListTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Java-basic/src/main/java/com/gyy/study/week7/StudentMapListTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Java-basic/src/test/java/com/gyy/study/week4/BaseEmployeeTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Java-basic/src/test/java/com/gyy/study/week4/BaseEmployeeTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Java-basic/src/test/java/com/gyy/study/week4/MarketEmployeeTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Java-basic/src/test/java/com/gyy/study/week4/MarketEmployeeTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Java-basic/src/test/java/com/gyy/study/week4/PersonTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Java-basic/src/test/java/com/gyy/study/week4/PersonTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../java-daily/out/production/java-daily/REMODE" beforeDir="false" afterPath="$PROJECT_DIR$/../java-daily/out/production/java-daily/REMODE" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../java-daily/src/day10/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/../java-daily/src/day10/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../java-daily/src/day6/ReceptTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/../java-daily/src/day6/ReceptTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../md/个人简历.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../student-amager/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../student-amager/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../student-amager/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../student-amager/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../student-amager/src/main/java/com/gyy/sm/dao/DepartmentDao.java" beforeDir="false" afterPath="$PROJECT_DIR$/../student-amager/src/main/java/com/gyy/sm/dao/DepartmentDao.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../student-amager/src/main/java/com/gyy/sm/dao/impl/DepartmentDaoImpl.java" beforeDir="false" afterPath="$PROJECT_DIR$/../student-amager/src/main/java/com/gyy/sm/dao/impl/DepartmentDaoImpl.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../student-amager/src/main/java/com/gyy/sm/frame/MainFrame.form" beforeDir="false" afterPath="$PROJECT_DIR$/../student-amager/src/main/java/com/gyy/sm/frame/MainFrame.form" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../student-amager/src/main/java/com/gyy/sm/frame/MainFrame.java" beforeDir="false" afterPath="$PROJECT_DIR$/../student-amager/src/main/java/com/gyy/sm/frame/MainFrame.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../student-amager/src/main/java/com/gyy/sm/service/DepartmentService.java" beforeDir="false" afterPath="$PROJECT_DIR$/../student-amager/src/main/java/com/gyy/sm/service/DepartmentService.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../student-amager/src/main/java/com/gyy/sm/service/impl/DepartmentServiceImpl.java" beforeDir="false" afterPath="$PROJECT_DIR$/../student-amager/src/main/java/com/gyy/sm/service/impl/DepartmentServiceImpl.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../student-amager/target/classes/com/gyy/sm/dao/DepartmentDao.class" beforeDir="false" afterPath="$PROJECT_DIR$/../student-amager/target/classes/com/gyy/sm/dao/DepartmentDao.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../student-amager/target/classes/com/gyy/sm/dao/impl/DepartmentDaoImpl.class" beforeDir="false" afterPath="$PROJECT_DIR$/../student-amager/target/classes/com/gyy/sm/dao/impl/DepartmentDaoImpl.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../student-amager/target/classes/com/gyy/sm/frame/MainFrame.class" beforeDir="false" afterPath="$PROJECT_DIR$/../student-amager/target/classes/com/gyy/sm/frame/MainFrame.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../student-amager/target/classes/com/gyy/sm/service/DepartmentService.class" beforeDir="false" afterPath="$PROJECT_DIR$/../student-amager/target/classes/com/gyy/sm/service/DepartmentService.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../student-amager/target/classes/com/gyy/sm/service/impl/DepartmentServiceImpl.class" beforeDir="false" afterPath="$PROJECT_DIR$/../student-amager/target/classes/com/gyy/sm/service/impl/DepartmentServiceImpl.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/yyg/sm/REMBER" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="mavenHome" value="D:\idea\IntelliJ IDEA 2020.2.2\plugins\maven\lib\maven3" />
+      </MavenGeneralSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="1kbQIIC3APFran71C13qoEtWG5Z" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="b08d2468-aeda-41ce-abc2-15a12b7fd615" name="Default Changelist" comment="" />
+      <created>1605966732348</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1605966732348</updated>
+      <workItem from="1605966733509" duration="210000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="601" y="193" key="FileChooserDialogImpl" timestamp="1605966911742">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="601" y="193" key="FileChooserDialogImpl/0.0.1536.824@0.0.1536.824" timestamp="1605966911742" />
+    <state x="356" y="99" key="new project wizard" timestamp="1605966939434">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="356" y="99" key="new project wizard/0.0.1536.824@0.0.1536.824" timestamp="1605966939434" />
+  </component>
+</project>
